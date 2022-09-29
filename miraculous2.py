@@ -1,4 +1,4 @@
-#def desenho():
+
 class Herois:
 
     def __init__(self, nome, idade, poder, miraculous):
